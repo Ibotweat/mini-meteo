@@ -1,6 +1,6 @@
 # 🌦️ Météo
 
-Une application météo simple et stylisée, avec fond d'écran dynamique selon la météo (soleil, pluie, neige, orages), créée avec **Node.js**, **Express**, et la météo récupérée via l'API de [wttr.in](https://wttr.in).
+Une site météo simple et stylisée, avec fond d'écran dynamique selon la météo (soleil, pluie, neige, orages), créée avec **Node.js**, **Express**, et la météo récupérée via l'API de [wttr.in](https://wttr.in).
 
 ---
 
