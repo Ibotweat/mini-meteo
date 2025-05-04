@@ -20,28 +20,40 @@ Une application météo simple et stylisée, avec fond d'écran dynamique selon 
 ### Strucutre :
 
 /meteo
+
 ├── server.js
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── orages.png
+
 ├── pluie.png
+
 ├── neige.png
+
 ├── soleil.png
+
 ├── nuageux.png
+
 └── README.md
+
 
 ### 📦 Dépendances
 
 * express
 * node-fetch (v2)
 
-
 **npm install express node-fetch@2**
+
 
 ### 🌐 Lancement
 
 **npm start**
+
 
 ## 📚 Technologies utilisées
 
