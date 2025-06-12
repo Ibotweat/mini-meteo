@@ -17,7 +17,7 @@ Une site météo simple et stylisée, avec fond d'écran dynamique selon la mét
 
 ## 🔧 Installation
 
-### Strucutre :
+### Structure du projet :
 
 /meteo
 
